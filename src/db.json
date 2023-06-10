@@ -1,0 +1,380 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "imageUrl": "https://example.com/electronics.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "imageUrl": "https://example.com/clothing.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Books",
+      "imageUrl": "https://example.com/books.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Home Decor",
+      "imageUrl": "https://example.com/home-decor.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sports",
+      "imageUrl": "https://example.com/sports.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Beauty",
+      "imageUrl": "https://example.com/beauty.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Toys",
+      "imageUrl": "https://example.com/toys.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Automotive",
+      "imageUrl": "https://example.com/automotive.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jewelry",
+      "imageUrl": "https://example.com/jewelry.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kitchenware",
+      "imageUrl": "https://example.com/kitchenware.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S25",
+      "price": "12",
+      "categoryId": 1,
+      "features": [
+        "Exynos 2100 chip",
+        "Dynamic AMOLED 2X display",
+        "Triple-camera system"
+      ],
+      "imageUrl": "https://example.com/galaxys21.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Aony Bravia 4K Smart TV",
+      "price": "170",
+      "categoryId": 1,
+      "features": [
+        "65-inch 4K HDR display",
+        "Android TV",
+        "Dolby Atmos sound"
+      ],
+      "imageUrl": "https://example.com/sonytv.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Levi's Men's 501 Jeans",
+      "price": "140",
+      "categoryId": 2,
+      "features": [
+        "100% cotton",
+        "Classic straight fit",
+        "Button fly"
+      ],
+      "imageUrl": "https://example.com/levisjeans.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bdidas Originals Superstar Sneakers",
+      "price": "101",
+      "categoryId": 2,
+      "features": [
+        "Breathable mesh upper",
+        "Max Air cushioning",
+        "Rubber outsole"
+      ],
+      "imageUrl": "https://example.com/nikeairmax270.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "price": 12,
+      "categoryId": 3,
+      "features": [
+        "Author: J.K. Rowling",
+        "Paperback edition",
+        "First book of the Harry Potter series"
+      ],
+      "imageUrl": "https://example.com/harrypotter.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Bdidas Originals Superstar Sneakers",
+      "price": "170",
+      "categoryId": 3,
+      "features": [
+        "Author: Paulo Coelho",
+        "Inspiring philosophical novel",
+        "Translated from Portuguese"
+      ],
+      "imageUrl": "https://example.com/thealchemist.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Austic Wooden Wall Clock",
+      "price": "140",
+      "categoryId": 4,
+      "features": [
+        "Handcrafted from reclaimed wood",
+        "Vintage design",
+        "Quartz movement"
+      ],
+      "imageUrl": "https://example.com/woodenclock.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Marble Pattern Ceramic Vase",
+      "price": 45,
+      "categoryId": 4,
+      "features": [
+        "Elegant marble pattern",
+        "Perfect for floral arrangements",
+        "10 inches tall"
+      ],
+      "imageUrl": "https://example.com/marblevase.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Wilson NFL Super Grip Football",
+      "price": "00",
+      "categoryId": 5,
+      "features": [
+        "Official size",
+        "Durable composite leather cover",
+        "Excellent grip"
+      ],
+      "imageUrl": "https://example.com/football.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Fitbit Versa 3 Smartwatch",
+      "price": 199,
+      "categoryId": 6,
+      "features": [
+        "Built-in GPS",
+        "24/7 heart rate tracking",
+        "Sleep monitoring"
+      ],
+      "imageUrl": "https://example.com/fitbitversa3.jpg"
+    },
+    {
+      "id": 12,
+      "title": "LEGO Star Wars Millennium Falcon",
+      "price": 149,
+      "categoryId": 7,
+      "features": [
+        "1,351 pieces",
+        "Includes Han Solo and Chewbacca minifigures",
+        "Highly detailed"
+      ],
+      "imageUrl": "https://example.com/legomillenniumfalcon.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Black & Decker Cordless Drill",
+      "price": 79,
+      "categoryId": 8,
+      "features": [
+        "20V Lithium-ion battery",
+        "Variable speed control",
+        "Includes drill bits"
+      ],
+      "imageUrl": "https://example.com/cordlessdrill.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Silver Diamond Stud Earrings",
+      "price": 149,
+      "categoryId": 9,
+      "features": [
+        "925 sterling silver",
+        "Round-cut diamonds",
+        "0.5 carat total weight"
+      ],
+      "imageUrl": "https://example.com/diamondearrings.jpg"
+    },
+    {
+      "id": 15,
+      "title": "KitchenAid Stand Mixer",
+      "price": 299,
+      "categoryId": 10,
+      "features": [
+        "325-watt motor",
+        "Tilt-head design",
+        "Includes stainless steel mixing bowl"
+      ],
+      "imageUrl": "https://example.com/standmixer.jpg"
+    },
+    {
+      "id": 16,
+      "title": "iPad Pro",
+      "price": 1099,
+      "categoryId": 1,
+      "features": [
+        "M1 chip",
+        "Liquid Retina XDR display",
+        "Face ID"
+      ],
+      "imageUrl": "https://example.com/ipadpro.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Adidas Ultraboost 21",
+      "price": 180,
+      "categoryId": 2,
+      "features": [
+        "Primeknit upper",
+        "Boost midsole",
+        "Responsive cushioning"
+      ],
+      "imageUrl": "https://example.com/ultraboost21.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Modern Metal Wall Art",
+      "price": 89,
+      "categoryId": 4,
+      "features": [
+        "Abstract design",
+        "Hand-painted",
+        "Easy to hang"
+      ],
+      "imageUrl": "https://example.com/metalwallart.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Spalding NBA Street Basketball",
+      "price": 25,
+      "categoryId": 5,
+      "features": [
+        "Size 7 (29.5 inches)",
+        "Durable rubber cover",
+        "Great for outdoor play"
+      ],
+      "imageUrl": "https://example.com/basketball.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Philips Sonicare Electric Toothbrush",
+      "price": "100",
+      "categoryId": 6,
+      "features": [
+        "Sonic technology",
+        "2-minute timer",
+        "Includes brush heads"
+      ],
+      "imageUrl": "https://example.com/sonicaretoothbrush.jpg"
+    },
+    {
+      "id": 22,
+      "title": "LEGO Harry Potter Hogwarts Castle",
+      "price": 399,
+      "categoryId": 7,
+      "features": [
+        "6,020 pieces",
+        "Includes minifigures of Harry Potter characters",
+        "Detailed interior"
+      ],
+      "imageUrl": "https://example.com/legohogwarts.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Bosch 18-Volt Drill/Driver Kit",
+      "price": 129,
+      "categoryId": 8,
+      "features": [
+        "18V Lithium-ion battery",
+        "Two-speed transmission",
+        "Includes carrying case"
+      ],
+      "imageUrl": "https://example.com/boschdrill.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Diamond Tennis Bracelet",
+      "price": 599,
+      "categoryId": 9,
+      "features": [
+        "14K white gold",
+        "Round-cut diamonds",
+        "2 carat total weight"
+      ],
+      "imageUrl": "https://example.com/diamondbracelet.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Cuisinart Stainless Steel Cookware Set",
+      "price": "2441",
+      "categoryId": 10,
+      "features": [
+        "10-piece set",
+        "Stainless steel construction",
+        "Dishwasher safe"
+      ],
+      "imageUrl": "https://example.com/cookwareset.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Dell XPS 13 Laptop",
+      "price": "00",
+      "categoryId": 1,
+      "features": [
+        "Intel Core i7 processor",
+        "13.3-inch InfinityEdge display",
+        "512GB SSD"
+      ],
+      "imageUrl": "https://example.com/dellxps13.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Bdidas Originals Superstar Sneakers",
+      "price": "107",
+      "categoryId": 2,
+      "features": [
+        "Classic shell toe design",
+        "Leather upper",
+        "Rubber cupsole"
+      ],
+      "imageUrl": "https://example.com/superstarsneakers.jpg"
+    },
+    {
+      "id": 28,
+      "title": "The Chronicles of Narnia Box Set",
+      "price": 45,
+      "categoryId": 3,
+      "features": [
+        "Author: C.S. Lewis",
+        "Fantasy adventure series",
+        "Seven books in one"
+      ],
+      "imageUrl": "https://example.com/narnia.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Modern Geometric Wall Mirror",
+      "price": 129,
+      "categoryId": 4,
+      "features": [
+        "Unique geometric design",
+        "Gold-finished frame",
+        "36 inches in diameter"
+      ],
+      "imageUrl": "https://example.com/wallmirror.jpg"
+    }
+  ]
+}
